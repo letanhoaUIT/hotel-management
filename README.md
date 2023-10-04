@@ -54,6 +54,17 @@ If you want to contribute to this project, please follow these steps:
 4. Push to your fork: `git push origin feature-name`.
 5. Create a pull request on the original repository.
 
+## System Requirements
+
+Before getting started with the project, make sure your computer meets the following requirements:
+
+- Java Development Kit (JDK): Version 11 or higher is recommended. You can download the JDK [here](https://www.oracle.com/java/technologies/javase-downloads.html).
+- NetBeans IDE: Version 8.2 or higher is suggested for developing this project. You can download NetBeans IDE [here](https://netbeans.apache.org/download/index.html).
+- MySQL Database Server: This project uses MySQL to store data. You need to install MySQL Database Server version 5.7 or higher. Download MySQL [here](https://dev.mysql.com/downloads/mysql/).
+
+**Note:** Ensure that you have installed and configured these system requirements before running the project.
+
+
 # Output:
 - Login
                
