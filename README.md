@@ -30,8 +30,6 @@ The Hotel Management System project is a Java application developed to assist in
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed and configuration steps. For example:
-
 1. Clone the repository: `https://github.com/letanhoaUIT/hotel-management`
 2. Install Java and NetBeans.
 3. Create a MySQL database for the project.
